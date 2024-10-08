@@ -1,0 +1,7 @@
+asgiref==3.8.1
+diff-match-patch==20230430
+Django==4.2
+django-import-export==4.1.1
+django-jazzmin==3.0.0
+sqlparse==0.5.1
+tablib==3.5.0
