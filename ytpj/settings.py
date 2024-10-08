@@ -45,6 +45,7 @@ INSTALLED_APPS = [
     'userauths',
     
     'import_export',
+    'taggit',
     
 ]
 
